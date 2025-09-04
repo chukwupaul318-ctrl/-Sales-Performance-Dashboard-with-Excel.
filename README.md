@@ -20,6 +20,10 @@ I make my workflow relative to this project methodical to ensure accuracy and cl
 2.	**Formula Calculations**: I used a range of formulas an functions in Excel to calculate key metrics and prepare the data for visualization.
 3.	**Dashboard Design**: I designed a single professional Excel dashboard by creating charts linked to my data to visually represent the sales trends, profitability by products, and customers insights. I arranged the chart in a logical manner to help in telling a coherent story about the data and my project.
 
+## 🗃️**Dashboard Preview**
+Below is a static preview of the Excel dashboard I created.
+<img width="1714" height="630" alt="we thank god for this" src="https://github.com/user-attachments/assets/bcfba2c5-c278-4fe3-be72-53b1271a78eb" />
+
 
 ## 🚀**Skills Demonstrated**:
 
@@ -42,7 +46,4 @@ Based on the provided insight on my analysis, I recommend the following actions 
 2.	**Product Optimization**: I suggest focus on marketing and sales efforts on the most profitable products identified in the analysis.
 3.	**Targeted Customer Relations**: I suggest the develop of a strategy to nurture relationships with the most profitable customers to encourage loyalty and repeat business.
 
-
-## 🗃️**Dashboard Preview**
-Below is a static preview of the Excel dashboard I created.
 
